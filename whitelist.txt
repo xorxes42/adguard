@@ -60,6 +60,9 @@
 @@||play.itunes.apple.com.edgesuite.net^$important
 @@||uts-api-cdn.itunes-apple.com.akadns.net^$important
 
+# Bild
+@@||bild.de^$important
+
 # Cloudflare
 #@@||cdn.cloudflare.net^$important
 #@@||cdnjs.cloudflare.com^$important
