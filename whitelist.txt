@@ -61,7 +61,7 @@
 @@||uts-api-cdn.itunes-apple.com.akadns.net^$important
 
 # Bild
-@@||bild.de^
+@@||bild.de^$important
 
 # Cloudflare
 #@@||cdn.cloudflare.net^$important
@@ -87,6 +87,9 @@
 
 # DPD
 @@||tracking.dpd.de^$important
+
+# Eicar
+@@||eicar.com^$important
 
 # Facebook
 #@@||api.facebook.com^$important
